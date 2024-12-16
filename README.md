@@ -31,5 +31,5 @@ Ensure you have the following installed:
 - SQL Database (e.g., MySQL, PostgreSQL, SQLite)
 
 ### Clone the Repository```bash
-## git clone https://github.com/YourUsername/react-blog-post.git
+## git clone https://github.com/shubhbptl/react-blog-post.git
 ### cd react-blog-post
